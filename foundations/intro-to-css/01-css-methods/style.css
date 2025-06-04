@@ -3,5 +3,6 @@ div {
     color: white;
     font-size: 32px;
     font-weight: bold;
-    justify-self: center;
+    text-align: center;
+    width: 100%;
 }
