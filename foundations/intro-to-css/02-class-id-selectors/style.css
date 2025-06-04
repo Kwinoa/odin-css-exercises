@@ -1,7 +1,11 @@
 p {
     background-color: #EAA6BB; 
-    font: Verdana, DejaVu Sans, sans-serif
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+/* div {
+    font-family: sans-serif;
+} */
 
 .diff-font-size{
     font-size: 24px;
